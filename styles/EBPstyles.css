@@ -5,7 +5,8 @@ h2, h3 {color: rgb(152, 200, 255); text-align: center}
 p {
 	color: powderblue; 
 	text-align: center;
-	margin: 0 525px;
+	margin: auto;
+	width: 50%;
 	line-height: 2;
 }
 
